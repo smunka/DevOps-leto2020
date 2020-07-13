@@ -4,6 +4,10 @@ Tu je popis projektu
 
 # Navod
 
+## Link
+
+[toto je skusobny link](https://www.google.com)
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -36,8 +40,6 @@ Next, you’ll add a new file to this repository.
 5. Go back to the **Source** page.
 
 Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
 
 ## Clone a repository
 
