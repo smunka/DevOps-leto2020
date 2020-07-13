@@ -10,6 +10,10 @@ Tu je popis projektu
 
 ### maly nadpis
 
+1. prvy riadok
+2. druhy riadok
+3. treti riadok
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
