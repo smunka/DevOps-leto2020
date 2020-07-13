@@ -2,11 +2,13 @@
 
 Tu je popis projektu 
 
-# Navod
+## Navod
 
 ## Link
 
 [toto je skusobny link](https://www.google.com)
+
+### maly nadpis
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
