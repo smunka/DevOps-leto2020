@@ -10,3 +10,4 @@ toto je testovaci subor s listom
 4. d ako drake
 5. e ako elizabet queen
 6. f ako fontana pre zuzanu
+7. g ako granat
