@@ -2,4 +2,4 @@
 
 ### Malinka je ovocie
 
-jahoda je ovocie, aj banan je ovocnik
+jahoda je ovocie, aj banan je ovocnik aj pomaranc je ovocie
