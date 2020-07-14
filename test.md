@@ -1,6 +1,6 @@
 # test
 
-testovaci subor 
+
 
 toto je testovaci subor s listom
 
