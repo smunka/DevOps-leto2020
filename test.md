@@ -1,6 +1,6 @@
 # test
 
-testovaci subor 
+
 
 toto je testovaci subor s listom
 
@@ -11,3 +11,6 @@ toto je testovaci subor s listom
 5. e ako elizabet queen
 6. f ako fontana pre zuzanu
 7. g ako granat
+
+
+granat je na nic
